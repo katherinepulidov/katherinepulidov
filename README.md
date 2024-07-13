@@ -145,4 +145,3 @@ Estoy entusiasmada por la oportunidad de aplicar mis habilidades en nuevas y emo
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
